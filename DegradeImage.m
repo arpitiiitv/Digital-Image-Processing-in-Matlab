@@ -1,5 +1,8 @@
+%% loading image arpit.jpg from same folder
+% convert image into double
 i=im2double(imread("arpit.jpg"));
 whos i
+% taking only 2 dimension of image r,g,b
 r=i(:,:,1);
 whos r
 %%
