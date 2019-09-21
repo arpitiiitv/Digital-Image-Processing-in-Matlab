@@ -8,5 +8,9 @@ Image processing codes for different processing in matlab
       Prewitt Edge Detection
       Laplace Edge Detection
     
- #
+ # Motion based Segmentation
+      ## ADI 
+      Absolute ADI
+      Positive  ADI 
+      negative ADI
     
