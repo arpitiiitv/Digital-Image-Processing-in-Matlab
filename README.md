@@ -14,3 +14,6 @@ Image processing codes for different processing in matlab
       Positive  ADI 
       negative ADI
     
+# Background remover
+
+      remove background in any image 
